@@ -118,8 +118,4 @@ Python-based dashboard visualizing student performance metrics for Catholic scho
 NLP-powered search tool for the Catechism of the Catholic Church using SentenceTransformers, FAISS, BM25, and CrossEncoder  
 🔗 https://catechismquestion.streamlit.app/
 
-DATA SCIENCE PROJECTS
 
-
-Education Data Dashboard: Built Python-based dashboard to visualize student performance metrics for Catholic schools. https://amatus-dataset.streamlit.app/
-Question-Answer App: Built an app to search the Catechism of the Catholic using NLP Techniques: SentenceTransformer, FAISS, BM25, and CrossEncoder. https://catechismquestion.streamlit.app/ 
